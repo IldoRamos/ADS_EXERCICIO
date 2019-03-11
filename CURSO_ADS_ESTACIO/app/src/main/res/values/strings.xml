@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Índice de Massa Corporal</string>
+    <string name="txt_peso">Peso </string>
+    <string name="txt_altura">Altura</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="app_name2">Temas</string>
+    <string name="text_titulo">Quais os temas do seu interese</string>
+    <string name="ckb_cinema">Cinema</string>
+    <string name="ckb_futubol">Futebol</string>
+    <string name="ckb_gastronimia">Gastronomia</string>
+    <string name="ckb_informatica">Informatica</string>
+    <string name="ckb_literatura">Literatura</string>
+    <string name="ckb_teatro">Teatro</string>
+    <string name="txt_selecionados">Total de temas selecionados</string>
+
+    <string name="btn_exibir">Exibir</string>
+    <string name="btn_Desmarcar">Desmarcar</string>
+
+
+</resources>
